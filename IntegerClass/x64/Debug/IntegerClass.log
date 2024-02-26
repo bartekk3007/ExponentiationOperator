@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\IntegerClass\Integer.hpp(18,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  IntegerClass.vcxproj -> C:\Users\48571\source\repos\IntegerClass\x64\Debug\IntegerClass.exe
